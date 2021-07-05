@@ -1,0 +1,13 @@
+Time 0
+P0 Running CPU
+Time 1
+P0 Running CPU
+P1 Ready FCFS-1
+Time 2
+P0 Running CPU
+P1 Ready FCFS-1
+P2 Ready FCFS-1
+Time 3
+P0 Ready FCFS-2
+P1 Running CPU
+P2 Ready FCFS-1

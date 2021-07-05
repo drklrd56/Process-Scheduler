@@ -1,0 +1,28 @@
+Time 0
+FCFS-1:
+FCFS-2:
+SJF:
+HardDisk:
+Network:
+Device:
+Time 1
+FCFS-1: P1
+FCFS-2:
+SJF:
+HardDisk:
+Network:
+Device:
+Time 2
+FCFS-1: P2 P3
+FCFS-2:
+SJF:
+HardDisk:
+Network:
+Device:
+Time 3
+FCFS-1: P2
+FCFS-2: P0
+SJF:
+HardDisk:
+Network:
+Device:
